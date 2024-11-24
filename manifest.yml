@@ -1,0 +1,11 @@
+---
+applications:
+- name: spm_credit_type
+  instances: 1
+  memory: 64MB
+  host: spm_credit_type
+  buildpack: go_buildpack
+  env:
+    GOPACKAGENAME : spm_credit_type
+  services:
+    - xsuaa  
