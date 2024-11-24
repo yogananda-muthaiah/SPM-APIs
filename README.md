@@ -1,5 +1,5 @@
 # SPM-APIs
-Written in Golang for your own API endpoint using SPM API
+Written in Golang to read API data for SPM Credit Type endpoint. Try it out and kindly contribute or make a pull requests
 
 
 
